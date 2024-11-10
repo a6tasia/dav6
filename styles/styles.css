@@ -1,0 +1,194 @@
+body {
+	height: 1800px;
+
+}
+
+
+.container {
+	max-width: 1000px;
+	margin-left: 104px;
+	margin: 0 auto;
+
+	
+
+
+}
+header {
+	padding: 20px 0;
+	position: fixed;
+	width: 100%;
+	z-index: 2;
+	top: 0;
+	margin: 0 auto;
+	display: block;
+	background-color: white;
+
+}
+nav {
+	display: inline-block;
+}
+
+li {
+	display: inline-block;
+	color: #000000;
+	font-size: 11px;
+	font-weight: 700;
+	padding-left: 32px;
+	font-family: Roboto;
+}
+
+.section {
+	font-size: 24px;
+	font-weight: 700;
+	font-family: roboto;
+	
+	margin-left: 136px;
+	margin-top: 72px;
+	
+	
+}
+
+.block {
+	display: inline-block;
+	height: 350px;
+	width: 362px;
+ 		
+
+}
+.img {
+	display: inline-block;
+	position: relative;
+	left: 136px;
+	top: 32px;
+	
+}
+
+p {
+	position: absolute;
+	font-size: 20px;
+	font-weight: 700;
+	font-family: roboto;
+	top: 32px;
+	left: 40px;
+	color: white;
+	
+}
+
+
+
+.div1 {
+	background-color: #cecdcd;
+	width: 362px;
+	height: 171px;
+	position: relative;
+	left: 136px;
+	top: 29px;
+	display: inline-block;
+
+
+
+
+
+
+}
+
+.divtext {
+	font-size: 10px;
+	font-weight: 700;
+	font-family: roboto;
+	top: 64px;
+	left: 32px;
+	color: #8A8787;
+	position: absolute;
+
+}
+
+.clock {
+	
+	margin-top: 118px;
+	display: inline-block;
+	position: absolute;
+	left: 40px;
+	vertical-align: middle;
+}
+
+.hour {
+	font-size: 10px;
+	font-weight: 700;
+	font-family: roboto;
+	display: inline-block;
+	color: #8A8787;
+	vertical-align: middle;
+	left: 64px;
+	margin-top: 118px;
+
+}
+
+
+.pototext {
+	color: white;
+	font-size: 20px;
+	font-family: roboto;
+	font-weight: 700;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	vertical-align: top;
+}
+
+.photo2 {
+	height: 860px;
+	width: 758px;
+	display: inline-block;
+	margin-right: 190px;
+	
+} 
+
+.photo3 {
+	vertical-align: top;
+	display: inline-block;
+	height: 836px;
+	width: 362px;
+	margin-top: 30px;
+}
+
+.imgsmall {
+	margin-bottom: 100px;
+}
+
+
+.footer {
+	background-color: #243043;
+	height: 200px;
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 200px;
+	padding: 20px 0;
+	position: relative;
+
+}
+
+.footertext {
+	color: white;
+	font-size: 12px;
+	font-family: roboto;
+	font-weight: 700;
+/*	line-height: 1.6;*/
+	margin-left: 136px;
+	position: absolute;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
